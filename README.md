@@ -63,5 +63,5 @@ ls -l <mountpoint>
 **Read a File**
 
 ```
-cat <mountpoint>/2024-01-01_12-00-00_<post_id>.txt
+cat <mountpoint>/2024-01-01_12-00-00.post
 ```

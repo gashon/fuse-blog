@@ -1,6 +1,7 @@
 # fuse-blog
 mountable, virtual filesystem for reading and writing my blog.
 
+[screencast.webm](https://github.com/user-attachments/assets/d7801038-e298-4bbe-a41f-688a75d633a7)
 
 ### Prerequisites
 

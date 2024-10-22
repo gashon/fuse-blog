@@ -1,8 +1,9 @@
 import requests
 
+BASE_URL = 'https://stream.ghussein.org/api'
 
 class BlogAPIClient:
-    def __init__(self, base_url='https://stream.ghussein.org/api'):
+    def __init__(self, base_url=BASE_URL):
         self.base_url = base_url
         self.session = requests.Session()
 

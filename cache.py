@@ -33,6 +33,6 @@ class Cache:
         timestamp = time.strftime(
             '%Y-%m-%d_%H-%M-%S', time.localtime(post['created_at'] / 1000)
         )
-        filename = f"{timestamp}_{post['post_id']}.txt"
+        filename = f"{timestamp}.post"
         return filename
 
